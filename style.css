@@ -1,0 +1,228 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+#wrapper{
+	width: 970px;
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: white;
+}
+#header{
+	width: 970px;
+	background-color: white;
+}
+#header img{
+	height: 90px;
+	width: 90px;
+	display: inline-block;
+	position: absolute;
+}
+#header h1{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 5px;
+	margin-left: 100px;
+	padding: 5px;
+	color: #474747;
+	font-size: 48px;
+	font-weight: normal;
+}
+#header span{
+	color: #23669f;
+}
+#header h2{
+	color: white;
+	font-weight: normal;
+	font-size: 30px;
+	background: linear-gradient(#25669e, #5283ad, #25669e);
+	padding: 10px;
+	padding-left: 15px;
+}
+#main{
+	width: 970px;
+	background: linear-gradient(#e3e3e3, white, white, white, white);
+}
+#sidebar{
+/*	height: 500px;*/
+	width: 270px;
+	display: inline-block;
+	vertical-align: top;
+}
+#sidebarhead{
+	width: 170px;
+	border-bottom: 2px solid #c2c2c2;
+	padding: 20px 4px 20px 4px;
+}
+#sidebarhead h3{
+	margin-bottom: 5px;
+	font-size: 17px;
+}
+.color{
+	color: #23669f;
+}
+.bold{
+	font-weight: bold;
+}
+#sidebarhead h3 span{
+	color: red;
+}
+#sidebarhead h4{
+	margin-bottom: 5px;
+	font-size: 13px;
+}
+#sidebarhead h4 span{
+	color: #23669f;
+}
+#video{
+	color: white;
+	margin: 5px;
+	text-align: center;
+	padding: 5px 20px 5px 20px;
+	font-size: 15px;
+	font-weight: normal;
+	border: 0px;
+	border-radius: 3px;
+	box-shadow: 2px 2px 5px grey;
+	background: linear-gradient(#6398c4, #41719a);
+
+}
+#resources{
+	color: white;
+	margin: 5px;
+	text-align: center;
+	padding: 5px 7px 5px 7px;
+	font-size: 15px;
+	font-weight: normal;
+	border: 0px;
+	border-radius: 3px;
+	box-shadow: 2px 2px 5px grey;
+	background: linear-gradient(#eaae57, #e17716);
+}
+#dojoad{
+	height: 270px;
+	margin-top: 20px;
+	width: 170px;
+	padding-top: 10px;
+	background-image: url(images/ad_background.png);
+	color: white;
+	text-align: center;
+	box-shadow: 2px 2px 5px grey;
+}
+#dojoad h2{
+	margin-top: 10px;
+	font-weight: normal;
+}
+#dojoad img{
+	height: 120px;
+	width: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#learn{
+	padding: 5px 25px 5px 25px;
+	margin: 0px 10px 0px 10px;
+	color: white;
+	font-weight: normal;
+	border: 0px;
+	border-radius: 4px;
+	box-shadow: 2px 2px 5px black;
+	background: linear-gradient(#79cddc, #01bfde);
+}
+#learn button{
+	font-size: 12px;
+}
+#mainbody{
+	height: 500px;
+	width: 688px;
+	display: inline-block;
+}
+#bodyhead{
+	height: 70px;
+	width: 680px;
+	border-bottom: 2px solid #c2c2c2;
+}
+#home{
+	display: inline-block;
+	vertical-align: top;
+	color: #23669f;
+	margin-right: 408px;
+}
+#home img{
+	display: inline-block;
+	height: 20px;
+	width: 20px;
+	margin: 5px;
+}
+#home p{
+	margin-top: 10px;
+	font-weight: bold;
+	vertical-align: top;
+	display: inline-block;
+}
+#phone{
+	text-align: right;
+	display: inline-block;
+}
+#phone h4{
+	color: #00c0df;
+	font-weight: 900;
+	font-size: 25px;
+}
+#phone h6{
+	color: #747474;
+	font-size: 10px;
+}
+#phone img{
+	height: 60px;
+	width: 60px;
+	display: inline-block;
+	vertical-align: top;
+}
+#phonenumbers{
+	display: inline-block;
+}
+#bodybody{
+	height: 460px;
+	width: 680px;
+	font-weight: 500;
+}
+#bodybody h2{
+	font-size: 18px;
+}
+#bodybody p{
+	margin: 5px 0px 5px 0px;
+}
+#bodybody li{
+	margin-left: 40px;
+}
+#bodybody img{
+	height: 100px;
+	width: 300px;
+	margin-left: 200px;
+}
+#bodyfoot{
+	width: 680px;
+	border: 4px solid #0085e0;
+	border-bottom: 0px;
+	box-shadow: 2px 2px 5px grey;
+}
+#bodyfoot img{
+	margin: 10px;
+	height: 90px;
+	width: 100px;
+	display: inline-block;
+}
+#bodyfoot h2{
+	margin-top: 5px;
+	font-size: 18px;
+}
+#bodyfoottext{
+	height: 90px;
+	width: 550px;
+	display: inline-block;
+	vertical-align: top;
+}
+#bodyfoottext a{
+	text-decoration: none;
+}
